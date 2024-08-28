@@ -6,27 +6,25 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você é um cientista e tem o trabalho de criar uma forma de vida completamente nova, a partir de caracteristicas de seres já existentes na terra ",
+        enunciado: "Você é um cientista e tem o trabalho de criar uma forma de vida completamente nova, a partir de caracteristicas de seres já existentes na terra, para isso você deve começar por caracteristicas básicas, e ir aumentando seus pequenos detalhes, vamos começar? Seu animal é:  ",
         alternativas: [
             {
-                texto: "herbivoro!",
+                texto: "carnivoro!",
                 afirmacao: "afirmação"
             },
             {
-                texto: "carnivoro!",
+                texto: "herbivoro!",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
-        alternativas: [
+        enunciado: " Agora o seu animal prescisa de um revestimento escolha: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: " Pelos "
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: " Penas ",
                 afirmacao: "afirmação"
             }
         ]

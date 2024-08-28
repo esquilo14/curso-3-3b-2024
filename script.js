@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você é um cientista e tem o trabalho de criar uma forma de vida completamente nova, a partir de caracteristicas de seres já existentes na terra, para isso você deve começar por caracteristicas básicas, e ir aumentando seus pequenos detalhes, vamos começar? Seu animal é:  ",
+        enunciado: "Você é um cientista e tem o trabalho de criar uma forma de vida completamente nova, a partir de caracteristicas de seres já existentes na terra, para isso você deve começar por caracteristicas básicas, e ir aumentando seus pequenos detalhes, vamos começar? Seu animal é:",
         alternativas: [
             {
                 texto: "carnivoro!",

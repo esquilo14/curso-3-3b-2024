@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Você é um cientista e tem o trabalho de criar uma forma de vida completamente nova, a partir de caracteristicas de seres já existentes na terra ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "herbivoro!",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "carnivoro!",
                 afirmacao: "afirmação"
             }
         ]
